@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Gradle wrapper placeholder. In real environment, run 'gradle wrapper' or use Android Studio."
+echo "To build the APK, use Android Studio or run: ./gradlew assembleRelease"
